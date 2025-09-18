@@ -1,2 +1,1 @@
-Hello world
-https://LiMoNtEpro.github.io/rsschool-cv/cv
+[Hello world]https://LiMoNtEpro.github.io/rsschool-cv/cv
