@@ -12,13 +12,18 @@ I'm 18 years old, studying in BSAC. Right now i'm on second course and it's very
 * Base C
 ## There are example of my beginners code
 
-` func(a,b) {
+` 
+func(a,b) {
+
     sum=a+b;
+
     return sum;
+
 }
+
 int a=5,b=6;
+
 Score=sum(a,b);
-cout<<Score;
 `   
 ## Experience
 no ;(
