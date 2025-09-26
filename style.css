@@ -1,0 +1,14 @@
+@font-face {
+  font-family: DMSerifText;
+  src: url("assets/fonts/DMSerifText-Regular.ttf");
+}
+@font-face {
+  font-family: DMSerifText;
+  src: url("assets/fonts/DMSerifText-Italic.ttf");
+}
+body {
+    font-family: 'DMSerifText';
+}
+* {
+    box-sizing: border-box;
+}
